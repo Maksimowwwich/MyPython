@@ -11,3 +11,6 @@ def string(string, char):
 
 print(string('sasha', 's'))
 print(sqrt(16))
+
+def pidor():
+    print('pidor;)')
